@@ -19,8 +19,8 @@
 [1,"FBI2",1,"Incorrect",false,false,460472148334448,false,70],
 
 [1,"Q3",1,"The superior thyroid artery is the most commonly visualized branch of the ICA during the carotid duplex examination.",false,false,750718989410019,false,71],
-[1,"Q3A1",1,"TRUE",false,false,946685827170285,false,72],
-[1,"Q3A2",1,"FALSE",false,false,780020765138656,false,73],
+[1,"Q3A1",1,"FALSE",false,false,946685827170285,false,72],
+[1,"Q3A2",1,"TRUE",false,false,780020765138656,false,73],
 [1,"Q3A3",1,"I don't know",false,false,214032803002763,false,74],
 [1,"Q3A4",1,"Do you take $20's?",false,false,783074335382083,false,75],
 [1,"Ans3",0,1,false,false,928878787584430,false,76],
@@ -72,7 +72,7 @@
 [1,"FBC8",1,"Good job!",false,false,256334793133839,false,117],
 [1,"FBI8",1,"Incorrect",false,false,507288488789069,false,118],
 
-[1,"Q9",1,"When blood cells move in different directions with varying velocities, this is known as ______ flow.",false,false,466188560851628,false,119],
+[1,"Q9",1,"When red blood cells move at the same velocity and in the same direction, this is known as _______ blood flow.",false,false,466188560851628,false,119],
 [1,"Q9A1",1,"laminar",false,false,270625622121560,false,120],
 [1,"Q9A2",1,"turbulent",false,false,203085820931493,false,121],
 [1,"Q9A3",1,"disturbed",false,false,368612611146084,false,122],
